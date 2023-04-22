@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\bin\Debug\net6.0\M1S02.exe
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\bin\Debug\net6.0\M1S02.deps.json
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\bin\Debug\net6.0\M1S02.runtimeconfig.json
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\bin\Debug\net6.0\M1S02.dll
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\bin\Debug\net6.0\M1S02.pdb
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.dll
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\refint\M1S02.dll
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.pdb
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\M1S02.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Exercícios Semana 2\Ex 03 04 05 06\M1S02\obj\Debug\net6.0\ref\M1S02.dll
